@@ -19,23 +19,24 @@ School: Higher School of Computer Science and Digital Technologies (ESTIN)
 Field: Computer Science
 ```
 
-I am a Computer Science student driven by a deep curiosity for technology and innovation.
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8ya3FjMmY1emM2MWl0Zm1yNnJ6ZXdtcDJzbDJjbWJ4eW1uOHg4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-My interests span across multiple domains of computing, including:
+Computer Science student with a strong passion for building technology that creates real-world impact.
 
-- 💻 Software Development
+My interests extend across the full spectrum of modern computing, from designing software solutions and intelligent systems to understanding secure infrastructures and large-scale architectures.
+
+I am particularly passionate about:
+
+- 💻 Software Engineering & Backend Development
 - 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity & Ethical Hacking
-- ☁️ Cloud Computing
-- 🐧 Linux Systems
-- 🏗️ Systems Infrastructure
-- 🚢 DevOps & Containerization
-- 🌐 Backend Engineering
-- 📡 Distributed Systems
+- 🔐 Cybersecurity & System Security
+- ☁️ Cloud Computing & Distributed Systems
+- 🐧 Linux Ecosystems & Open Source Technologies
+- 🏗️ Infrastructure, DevOps & Scalability
 
-I enjoy understanding how modern software systems are designed, secured, deployed, and scaled.
+I enjoy exploring how software, security, infrastructure, and intelligence come together to power modern digital systems.
 
-My goal is to become a versatile engineer capable of building intelligent, secure, and highly scalable systems.
+Driven by curiosity and continuous learning, I strive to deepen my technical expertise and contribute to innovative projects that solve meaningful problems.
 
 ---
 
@@ -96,6 +97,10 @@ My goal is to become a versatile engineer capable of building intelligent, secur
 
 <a href="https://instagram.com/qamro_bkc">
 <img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:qamrodz@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
