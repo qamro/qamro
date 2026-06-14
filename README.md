@@ -128,8 +128,8 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 
 </div>
 
-<center>
+<div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
-</center>
+</div>
