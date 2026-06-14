@@ -17,7 +17,7 @@
 ```console
 ┌───────────────────────────────────────────────┐
 │ 👤 Name      : Mohamed Qamar Eddine Bakhouche │
-│ 📍 Location  : Algiers, Algeria 🇩🇿                     │
+│ 📍 Location  : Algiers, Algeria 🇩🇿            │
 │ 🎓 School    : ESTIN                          │
 │ 💻 Field     : Computer Science               │
 └───────────────────────────────────────────────┘
