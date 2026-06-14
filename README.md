@@ -114,10 +114,6 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="mailto:qamrodz@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
 
 ---
