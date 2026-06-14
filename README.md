@@ -14,7 +14,7 @@
 
 ```yaml
 Name: Mohamed Qamar Eddine Bakhouche
-Location: Algeria 🇩🇿
+Location: Algiers, Algeria 🇩🇿
 School: Higher School of Computer Science and Digital Technologies (ESTIN)
 Field: Computer Science
 ```
@@ -86,91 +86,6 @@ My goal is to become a versatile engineer capable of building intelligent, secur
 
 ---
 
-## 🔐 Cybersecurity Journey
-
-```text
-Network Security
-Linux Hardening
-Web Security
-OWASP Top 10
-Ethical Hacking Fundamentals
-Digital Forensics
-Security Operations
-```
-
----
-
-## 🤖 Artificial Intelligence
-
-Currently exploring:
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- AI Agents
-
----
-
-## ☁️ Infrastructure & Systems
-
-```mermaid
-graph LR
-
-Linux --> Docker
-Docker --> Kubernetes
-Kubernetes --> Cloud
-Cloud --> DevOps
-DevOps --> Scalability
-Scalability --> Reliability
-```
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -184,18 +99,6 @@ Scalability --> Reliability
 </a>
 
 </p>
-
----
-
-## 🎯 2026 Goals
-
-- Build advanced full-stack applications
-- Master software architecture
-- Learn cloud-native technologies
-- Strengthen cybersecurity expertise
-- Contribute to open-source projects
-- Develop AI-powered solutions
-- Explore distributed systems and infrastructure
 
 ---
 
