@@ -76,6 +76,10 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,dart,bash,asm" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Assembly-x86%20ASM-blue?style=for-the-badge" />  
+</p>
+
 ### Frontend Development
 
 <p align="center">
