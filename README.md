@@ -29,8 +29,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Software;Exploring+Artificial+Intelligence;Learning+Cybersecurity;Understanding+Systems+Infrastructure;Always+Learning+Something+New" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8ya3FjMmY1emM2MWl0Zm1yNnJ6ZXdtcDJzbDJjbWJ4eW1uOHg4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
-
 Computer Science student with a strong passion for building technology that creates real-world impact.
 
 My interests extend across the full spectrum of modern computing, from designing software solutions and intelligent systems to understanding secure infrastructures and large-scale architectures.
