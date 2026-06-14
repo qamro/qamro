@@ -12,12 +12,22 @@
 
 ## 🚀 About Me
 
-```yaml
-Name: Mohamed Qamar Eddine Bakhouche
-Location: Algiers, Algeria 🇩🇿
-School: Higher School of Computer Science and Digital Technologies (ESTIN)
-Field: Computer Science
+<div align="center">
+
+```console
+┌───────────────────────────────────────────────┐
+│ 👤 Name      : Mohamed Qamar Eddine Bakhouche │
+│ 📍 Location  : Algeria 🇩🇿                     │
+│ 🎓 School    : ESTIN                          │
+│ 💻 Field     : Computer Science               │
+└───────────────────────────────────────────────┘
 ```
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Software;Exploring+Artificial+Intelligence;Learning+Cybersecurity;Understanding+Systems+Infrastructure;Always+Learning+Something+New" />
+</p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8ya3FjMmY1emM2MWl0Zm1yNnJ6ZXdtcDJzbDJjbWJ4eW1uOHg4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
