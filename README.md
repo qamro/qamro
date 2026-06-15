@@ -15,12 +15,12 @@
 <div align="center">
 
 ```console
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ 👤 Name      : Mohamed Qamar Eddine Bakhouche                                   │
-│ 📍 Location  : Algiers, Algeria 🇩🇿                                              │
-│ 🎓 School    : Higher School of Computer Science and Digital Technologies ESTIN │
-│ 💻 Field     : Computer Science                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
+
+  👤 Name      : Mohamed Qamar Eddine Bakhouche                                   
+  📍 Location  : Algiers, Algeria 🇩🇿                                              
+  🎓 School    : Higher School of Computer Science and Digital Technologies ESTIN 
+  💻 Field     : Computer Science                                                 
+
 ```
 
 </div>
@@ -51,15 +51,15 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 ## 🌌 Current Focus
 
 ```console
-┌────────────────────────────────────────────────────┐
-│ 📚 Computer Science @ ESTIN                        │
-│                                                    │
-│ 🧠 Artificial Intelligence   → Learning & Building │
-│ 🔐 Cybersecurity            → Fundamentals & Sec   │
-│ ☁️ Cloud & Infrastructure   → Systems & Scaling    │
-│ 🐳 DevOps (Docker/K8s)      → Automation & Deploy  │
-│ 🚀 Full-Stack Development   → End-to-End Systems   │
-└────────────────────────────────────────────────────┘
+
+  📚 Computer Science @ ESTIN                        
+                                                     
+  🧠 Artificial Intelligence   → Learning & Building 
+  🔐 Cybersecurity            → Fundamentals & Sec   
+  ☁️ Cloud & Infrastructure   → Systems & Scaling    
+  🐳 DevOps (Docker/K8s)      → Automation & Deploy  
+  🚀 Full-Stack Development   → End-to-End Systems   
+
 ```
 
 <p align="center">
