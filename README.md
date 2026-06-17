@@ -89,7 +89,9 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 ### Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+  
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb,mysql,postgres" /> 
+
 </p>
 
 ### Infrastructure & DevOps
