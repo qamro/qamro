@@ -78,7 +78,6 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 
 
 <p align="center">
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/Assembly-x86%20ASM-blue?style=for-the-badge" />  
 </p>
 
