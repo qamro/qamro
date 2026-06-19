@@ -73,10 +73,12 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,dart,flutter,sql,bash" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,dart,flutter,bash" />
 </p>
 
+
 <p align="center">
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/Assembly-x86%20ASM-blue?style=for-the-badge" />  
 </p>
 
