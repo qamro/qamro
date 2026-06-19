@@ -103,7 +103,7 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 ### AI & Data Science
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,numpy" />
 </p>
 
 ---
