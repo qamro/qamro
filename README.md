@@ -73,7 +73,7 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,dart,flutter,bash" />
+<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,dart,flutter,bash" />
 </p>
 
 
