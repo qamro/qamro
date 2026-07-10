@@ -91,7 +91,7 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 
 <p align="center">
   
-<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,express,mongodb,mysql,postgres" /> 
+<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,express,mongodb,mysql" /> 
 
 </p>
 
