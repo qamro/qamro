@@ -125,10 +125,6 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://x.com/qamroBKC">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
 </p>
 
 ---
