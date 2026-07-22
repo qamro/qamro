@@ -131,7 +131,7 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 
 <div align="center">
 
-### ⚡ "Building the future one line of code at a 
+### ⚡ "Building the future one line of code at a time."
 
 </div>
 
