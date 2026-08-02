@@ -18,7 +18,7 @@
 
   👤 Name      : Mohamed Qamar Eddine Bakhouche                                   
   📍 Location  : Algiers, Algeria 🇩🇿                                              
-  🎓 School    : Higher School of Computer Science and Digital Technologies ESTIN 
+  🎓 School    : Higher School of Computer Science and Digital Technologies ESTIN Béjaia 
   💻 Field     : Computer Science                                                 
 
 ```
