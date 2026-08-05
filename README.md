@@ -47,7 +47,7 @@ I enjoy exploring how software, security, infrastructure, and intelligence come 
 
 Driven by curiosity and continuous learning, I strive to deepen my technical expertise and contribute to innovative projects that solve meaningful problems.
 
-Beyond academic learning, I actively participate in Capture The Flag (CTF) competitions to strengthen my practical cybersecurity skills. I enjoy solving security challenges. CTFs provide a hands-on environment where I continuously improve my problem-solving abilities, deepen my understanding of cybersecurity concepts, and apply theoretical knowledge to real-world scenarios.
+Beyond academic learning, I actively participate in Capture The Flag (CTF) challenges to strengthen my practical cybersecurity skills. I enjoy solving security challenges. CTFs provide a hands-on environment where I continuously improve my problem-solving abilities, deepen my understanding of cybersecurity concepts, and apply theoretical knowledge to real-world scenarios.
 
 ---
 
