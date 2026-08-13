@@ -76,7 +76,7 @@ Beyond academic learning, I actively participate in Capture The Flag (CTF) chall
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cs,java,js,ts,bash" />
+<img src="https://skillicons.dev/icons?i=python,c,cs,java,ruby,js,ts,bash" />
 </p>
 
 
