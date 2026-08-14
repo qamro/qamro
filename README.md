@@ -94,7 +94,7 @@ Beyond academic learning, I actively participate in Capture The Flag (CTF) chall
 
 <p align="center">
   
-<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,express,mongodb,mysql" /> 
+<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,express,rails,mongodb,mysql" /> 
 
 </p>
 
