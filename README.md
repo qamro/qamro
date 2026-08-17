@@ -134,7 +134,7 @@ Beyond academic learning, I actively participate in Capture The Flag (CTF) chall
 
 <div align="center">
 
-### ⚡ "Building the future, one line of code at a time."
+### ⚡ “Driven by curiosity, powered by code.”
 
 </div>
 
