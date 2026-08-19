@@ -128,6 +128,10 @@ Beyond academic learning, I actively participate in Capture The Flag (CTF) chall
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
+<a href="https://x.com/qamroBKC">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
 </p>
 
 ---
