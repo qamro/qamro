@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Software;Exploring+Artificial+Intelligence;Learning+Cybersecurity;Understanding+Systems+Infrastructure;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Software;Exploring+Artificial+Intelligence;Learning+Computer+Vision;Understanding+Systems+Infrastructure;Always+Learning+Something+New" />
 </p>
 
 Computer Science student with a strong passion for building technology that creates real-world impact.
