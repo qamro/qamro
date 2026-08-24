@@ -111,7 +111,8 @@ Beyond academic learning, I actively participate in Capture The Flag (CTF) chall
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="44" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />  
 </p>
 
 ---
