@@ -134,7 +134,7 @@ I actively participate in CTF challenges to strengthen my practical cybersecurit
 </a>
 
 
-<a href="https://discord.com/qamro_akaza">
+<a href="https://discord.com/users/1254578242862710876">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
