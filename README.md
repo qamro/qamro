@@ -133,6 +133,11 @@ I actively participate in CTF challenges to strengthen my practical cybersecurit
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
+
+<a href="https://discord.com/qamro_akaza">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
 </p>
 
 ---
