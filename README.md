@@ -37,7 +37,6 @@ I am particularly passionate about:
 
 - 💻 Software Engineering & Backend Development
 - 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity & System Security
 - 🏴 Capture The Flag (CTF) Challenges & Hands-on Security
 - ☁️ Cloud Computing & Distributed Systems
 - 🐧 Linux Ecosystems & Open Source Technologies
@@ -46,8 +45,6 @@ I am particularly passionate about:
 I enjoy exploring how software, security, infrastructure, and intelligence come together to power modern digital systems.
 
 Driven by curiosity and continuous learning, I strive to deepen my technical expertise and contribute to innovative projects that solve meaningful problems.
-
-I actively participate in CTF challenges to strengthen my practical cybersecurity skills and problem-solving abilities.
 
 ---
 
