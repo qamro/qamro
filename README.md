@@ -48,20 +48,6 @@ Driven by curiosity and continuous learning, I strive to deepen my technical exp
 
 ---
 
-## 🌌 Current Focus
-
-```console
-
-  📚 Computer Science @ ESTIN                        
-                                                     
-  🧠 Artificial Intelligence   → Learning & Building 
-  🔐 Cybersecurity            → Fundamentals & Sec   
-  ☁️ Cloud & Infrastructure   → Systems & Scaling    
-  🐳 DevOps (Docker/K8s)      → Automation & Deploy  
-  🚀 Full-Stack Development   → End-to-End Systems   
-
-```
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Learning+AI+%26+Machine+Learning;Building+Secure+Systems;Exploring+Cloud+Infrastructure;Developing+Scalable+Applications;Becoming+a+Software+Engineer" />
 </p>
