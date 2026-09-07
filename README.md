@@ -4,7 +4,7 @@
 
 # 👋 Welcome to my Digital Universe
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Software+Developer;Artificial+Intelligence+Enthusiast;Cybersecurity+Learner;Systems+Infrastructure+Explorer;Linux+%26+Cloud+Passionate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Software+Developer;Artificial+Intelligence+Enthusiast;Data+Science+Enthusiast;Systems+Infrastructure+Explorer;Linux+%26+Cloud+Passionate)](https://git.io/typing-svg)
 
 </div>
 
