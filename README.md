@@ -37,7 +37,7 @@ I am particularly passionate about:
 
 - 💻 Software Engineering & Backend Development
 - 🤖 Artificial Intelligence & Machine Learning
-- 🏴 Capture The Flag (CTF) Challenges & Hands-on Security
+- 🔒 Hands-on Security & CTF player
 - 🐧 Linux Ecosystems & Open Source Technologies
 - 🏗️ Infrastructure, DevOps & Scalability
 
